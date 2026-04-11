@@ -1,0 +1,4 @@
+"https://www.encodeproject.org/metadata/?control_type%21=%2A&related_series.%40type=ReferenceEpigenome&replicates.library.biosample.donor.organism.scientific_name=Homo+sapiens&status=released&biosample_ontology.classification=in+vitro+differentiated+cells&biosample_ontology.term_name=cardiac+muscle+cell&assay_title=Histone+ChIP-seq&target.label=H3K27ac&type=Experiment&files.analyses.status=released&files.preferred_default=true"
+https://www.encodeproject.org/files/ENCFF910OED/@@download/ENCFF910OED.bigWig
+https://www.encodeproject.org/files/ENCFF518VCX/@@download/ENCFF518VCX.bed.gz
+https://www.encodeproject.org/files/ENCFF238SWW/@@download/ENCFF238SWW.bigBed
